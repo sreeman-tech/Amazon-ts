@@ -16,7 +16,7 @@
 👤 **Dash Santosh**
 
 - Website: https://dashsantosh.me
-- Github: [@santdas36](https://github.com/santdas36)
+- Github: [@santdas36](https://github.com/sreeman-tech)
 
 ## Show your support
 
